@@ -1,3 +1,7 @@
+<p align="center">
+<a href="https://www.uvkxe.co"><img src="https://github.com/uvkxe/uvkxe.github.io/blob/main/images/UVKXE%20Logo_Vertical.jpg" width="300px" height="300px" alt="uvkxe exchange logo" /></a>
+</p>
+
 # [UVKXE Exchange](https://www.uvkxe.co) Overview
 Committed to building the world top digital currency exchange
 > ## Table of Contents
