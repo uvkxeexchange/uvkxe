@@ -27,4 +27,4 @@ The goal of UVKXE: to continuously provide users with safe, efficient, and high-
 
 The vision of UVKXE: to innovate continuously and technologically drive the creation of ultimate products, meeting the growing business needs of users. It aspires to become the most trusted brand for users, leading the global blockchain technology and cryptocurrency development.
 
-## Learn more by reading the [UVKXE blog](https://uvkxe.github.io)!
+## Learn more by reading the [UVKXE blog](https://github.com/orgs/uvkxeexchange/discussions/1)!
